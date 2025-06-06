@@ -1,5 +1,7 @@
 # RealtimeConversation-vincentVanGogh
 
+Vinscent Van Gogh(빈센트 반고흐)와 실시간으로 대화 프로그램으로, Unreal Engine4.27, MetaHuman, RAG, Clova, GPT, Supertone을 활용하여 빈센트 반고흐 혹은 반고흐의 전시 설명에 효과적인 교육 프로그램입니다.
+
 > Copyright © 2025 NpcMJU Team (Hyunbin Kim, Dongsin Kim, Bora Nam, Hangyul Lee)  
 > All rights reserved.  
 > This repository is for reference purposes only.  
