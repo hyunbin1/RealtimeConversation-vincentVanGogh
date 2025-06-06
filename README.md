@@ -2,9 +2,12 @@
 
 Vinscent Van Gogh(빈센트 반고흐)와 실시간으로 대화 프로그램으로, Unreal Engine4.27, MetaHuman, RAG, Clova, GPT, Supertone을 활용하여 빈센트 반고흐 혹은 반고흐의 전시 설명에 효과적인 교육 프로그램입니다.
 
-### UnrealEngine 소스 코드: https://drive.google.com/file/d/1P2FNKGFIn0bm2RY-Ol5J0gtH7enxty80/view?usp=sharing
+### UnrealEngine 소스 코드
+
+https://drive.google.com/file/d/1P2FNKGFIn0bm2RY-Ol5J0gtH7enxty80/view?usp=sharing </br> 
 3D 모델 특성상 용량이 5기가로 매우 커 링크로 올림 snl 파일만 교체해서 build 후 사용
 
+---
 > Copyright © 2025 NpcMJU Team (Hyunbin Kim, Dongsin Kim, Bora Nam, Hangyul Lee)  
 > All rights reserved.  
 > This repository is for reference purposes only.  
